@@ -17,8 +17,7 @@ public class Expense {
         this.dateIncurred = dateIncurred;
     }
 
-    // Getters and Setters
-
+    public Expense() {}
 
     public int getExpenseID() {
         return expenseID;
